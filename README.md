@@ -22,3 +22,23 @@ say_hello("Zhenxi")
     'Hello Zhenxi!'
 
 
+
+Example using `HelloSayer` class
+
+```python
+o = HelloSayer("Zhenxi")
+o.say()
+```
+
+
+
+
+    'Hello Zhenxi!'
+
+
+
+Show off maths
+{% raw %}
+$$\sum_{i=1}^{k+1}i$$
+{% endraw %}
+This version is displayed inline: $\sum_{i=1}^{k+1}i$ . You can include text before and after.
